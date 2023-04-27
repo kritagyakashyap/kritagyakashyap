@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, i'm @kritagyakashyap 👋
+### I'm currently enhancing my ability to work with data.
+### i'm looking for an organisation to utilize my skills and knowledge in the field of Data Science.
+### How to reach me : mailtokritagya@gmail.com
 
 <!--
 **kritagyakashyap/kritagyakashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
