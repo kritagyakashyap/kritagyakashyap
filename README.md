@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="100%" src="https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif">
 
 <h1 align="center">Hi there, I'm Kritagya Kashyap 👋</h1>
-<h3 align="center">Data Analyst | Aspiring Data Scientist</h3>
+<h3 align="center">Data Analyst with expertise in SQL, BigQuery, Excel, and Python, adept at uncovering insights from complex datasets, automating processes, and driving data-driven solutions. Proven success in collaborating with cross-functional teams to enhance decision-making, reduce risks, and improve operational efficiency. Actively expanding skills in machine learning and advanced analytics to transition into a Data Scientist role.</h3>
 
 ---
 
