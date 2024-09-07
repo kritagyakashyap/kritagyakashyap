@@ -19,17 +19,6 @@
 
 ---
 
-<h2 align="center"> GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kritagyakashyap&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritagyakashyap&theme=radical" alt="GitHub Streak Stats">
-  <br><br>
-</div>
-
----
-
 <h2 align="center"> Technologies & Tools</h2>
 
 <p align="center">
